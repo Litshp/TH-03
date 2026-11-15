@@ -1,0 +1,5 @@
+session_id,response_count,average_score,issue_rate
+S01,4,3.75,0.50
+S02,3,4.33,0.00
+S03,11,4.00,0.27
+S04,2,,
